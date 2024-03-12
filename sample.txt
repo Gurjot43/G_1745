@@ -2,6 +2,9 @@ hi
 hello
 <<<<<<< HEAD
 how
+<<<<<<< HEAD
 are
 =======
 >>>>>>> parent of 25119ef (commit3)
+=======
+>>>>>>> parent of 654ac16 (commit4)
